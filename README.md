@@ -1,10 +1,7 @@
-Here’s an awesome README template for your GitHub profile that highlights your skills as a React, Odoo, and full-stack developer. Feel free to modify it to fit your personal style!
 
----
+# Hi there! 👋 I'm FazelAhad Fazel
 
-# Hi there! 👋 I'm [Your Name]
-
-Welcome to my GitHub profile! I'm a passionate full-stack developer with a focus on **React**, **Odoo**, and modern web technologies. My experience spans across building web applications, customizing enterprise software, and working with a variety of front-end and back-end tools. 
+Welcome to my GitHub profile! I'm a passionate **Frontend** developer with a focus on **React**, **Nextjs**, and **OdooERP**, and modern web technologies. My experience spans across building web applications, customizing enterprise software, and working with a variety of front-end and back-end tools. 
 
 ## 🔧 Technologies & Tools
 
@@ -14,11 +11,13 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a focus
 - **React.js** / **Next.js**
 - **Tailwind CSS** / **Bootstrap**
 - **WordPress** (Theme & Plugin Development)
+- **bootstrap**
 
 ### Backend Development:
-- **Node.js**
 - **Odoo** (ERP Development & Customization)
-- **REST APIs** / **GraphQL**
+- **Node.js**
+- **REST APIs**
+- **Nextjs**
 
 ### Dev Tools & Other:
 - **Git** / **GitHub**
@@ -27,15 +26,17 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer with a focus
 - **Postman** / **Insomnia**
 
 ## 🖥️ Odoo Expertise
-I have extensive experience in developing and customizing **Odoo** modules for various industries, from **pharmacy management** to **property management**. My expertise includes:
+I have extensive experience in developing and customizing **Odoo** modules for various industries, from small business like **pharmacy management** to large business like **Exchanges**. My expertise includes:
 - **Odoo ERP Customization**
-- **Kanban views, access control, and workflows**
 - **Integration with third-party APIs**
 - **Automating tasks and creating reports**
+- **Kanban views, access control, and workflows**
 
 ## 🌱 What I'm Learning
 I'm always eager to learn and grow. Here are a few things I’m currently exploring:
 - **Advanced React patterns**
+- **Odoo OWL for Odoo customization**
+- **AI For delveloping lightwight and powerful web apps**
 - **Next.js Server-Side Rendering (SSR)**
 - **DevOps tools** for smooth deployment
 
@@ -53,10 +54,5 @@ Here are some of my favorite projects:
 ## 💬 Get In Touch
 
 I’m always open to discussing new projects or sharing knowledge. You can reach me at:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/your-profile)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
-
----
-
-Feel free to replace any placeholders (`Your Name`, `YourGitHubUsername`, etc.) with your actual information and adjust sections to reflect your preferences!
+- **Email**: fazelahadfazel@gmail.com
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/fazelahad-fazel)
