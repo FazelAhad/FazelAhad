@@ -36,7 +36,7 @@ I have extensive experience in developing and customizing **Odoo** modules for v
 I'm always eager to learn and grow. Here are a few things I’m currently exploring:
 - **Advanced React patterns**
 - **Odoo OWL for Odoo customization**
-- **AI For delveloping lightwight and powerful web apps**
+- **AI For developing lightweight and powerful web apps**
 - **Next.js Server-Side Rendering (SSR)**
 - **DevOps tools** for smooth deployment
 
@@ -55,4 +55,4 @@ Here are some of my favorite projects:
 
 I’m always open to discussing new projects or sharing knowledge. You can reach me at:
 - **Email**: fazelahadfazel@gmail.com
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/fazelahad-fazel)
+- **LinkedIn**: [FazelAhad Fazel](https://www.linkedin.com/in/fazelahad-fazel-a70209232)
